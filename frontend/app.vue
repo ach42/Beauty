@@ -1,0 +1,4 @@
+<template>
+  <AppLangSwitcher/>
+  <NuxtPage />
+</template>
